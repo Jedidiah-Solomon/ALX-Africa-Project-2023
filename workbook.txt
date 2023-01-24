@@ -1,8 +1,3 @@
-How to use SANDBOX...........Shell Navigation
-i : use webterm on web or 
-ii:  SSH , copy it and use CMD, paste it and enter and press yes
-Some commands
-a. exit
-b. clear
-c. ctrl + c...ends a program
-Do not destroy your sandbox...not to loose all files or folders.
+ALX WORKS
+WEEK 1 (Fred Swaniker story about africa)
+https://docs.google.com/document/d/1780JrhPTnx9v6cbR-dVdDSXEE9rS-55GeCp3Ls-zbCA/edit?usp=sharing
