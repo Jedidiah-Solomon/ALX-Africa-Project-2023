@@ -1,0 +1,8 @@
+How to use SANDBOX...........Shell Navigation
+i : use webterm on web or 
+ii:  SSH , copy it and use CMD, paste it and enter and press yes
+Some commands
+a. exit
+b. clear
+c. ctrl + c...ends a program
+Do not destroy your sandbox...not to loose all files or folders.
